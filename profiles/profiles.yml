@@ -3,9 +3,9 @@ lakehouse_medallion_demo:
     outputs:
       dev:
         catalog: null
-        host: adb-6016924387785376.16.azuredatabricks.net
-        http_path: sql/protocolv1/o/6016924387785376/0814-205839-xejn6eb2
+        host: <<your_databricks_host>>.azuredatabricks.net
+        http_path: <<your_databricks_path>>
         schema: default
         threads: 1
-        token: dapi2caf6705db584b4a13de4f020ddd2281
+        token: <<your_databricks_token>>
         type: databricks
