@@ -2,6 +2,7 @@ Welcome to your new dbt project! # dbt-azuredatabricks
 
 To setup dbt project with azure databricks, follow these links
 https://anujsen02.medium.com/analytics-engineering-on-the-lakehouse-using-dbt-databricks-part-1-c4d773731ffe
+
 https://piethein.medium.com/using-dbt-for-building-a-medallion-lakehouse-architecture-azure-databricks-delta-dbt-31a31fc9bd0
 
 
