@@ -1,10 +1,8 @@
-Welcome to your new dbt project!
+Welcome to your new dbt project! # dbt-azuredatabricks
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+To setup dbt project with azure databricks, follow these links
+https://anujsen02.medium.com/analytics-engineering-on-the-lakehouse-using-dbt-databricks-part-1-c4d773731ffe
+https://piethein.medium.com/using-dbt-for-building-a-medallion-lakehouse-architecture-azure-databricks-delta-dbt-31a31fc9bd0
 
 
 ### Resources:
@@ -13,4 +11,3 @@ Try running the following commands:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
-# dbt-azuredatabricks
